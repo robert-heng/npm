@@ -1,0 +1,12 @@
+{
+  "name": "cms-tools",
+  "version": "1.0.0",
+  "description": "后台管理系统工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "email":"1820510329@qq.com",
+  "author": "Gavin",
+  "license": "ISC"
+}
